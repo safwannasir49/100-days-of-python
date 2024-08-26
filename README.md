@@ -1,8 +1,9 @@
 <div>
   <img src="Resources/100dayspython.png">
 </div>
+<br>
+<h2 align="center">🔰 Beginner </h2> 
 
-## 🔰 Beginner 
 - [Day 1:](https://github.com/phillipai/100-days-of-code-python/tree/main/day01) Working with Variables in Python to Manage Data
 - [Day 2:](https://github.com/phillipai/100-days-of-code-python/tree/main/day02) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/phillipai/100-days-of-code-python/tree/main/day03) Control Flow and Logical Operators
@@ -17,6 +18,211 @@
 - [Day 12:](https://github.com/phillipai/100-days-of-code-python/tree/main/day12) Scope & Number Guessing Game
 - [Day 13:](https://github.com/phillipai/100-days-of-code-python/tree/main/day13) Debugging: How to Find and Fix Errors in your Code
 - [Day 14:](https://github.com/phillipai/100-days-of-code-python/tree/main/day14) Higher Lower Game Project
+
+<h2>Day 1: Working with Variables in Python to Manage Data</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Write a program that stores and prints variables.</li>
+        <li>Practice with different variable types (e.g., integers, strings).</li>
+        <li>Take user input and manipulate the data.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Introduction to Python variables and data types.</li>
+        <li>Differences between static and dynamic typing.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-1" target="_blank">
+        <img src="https://img.shields.io/badge/Day%201-Python%20Variables-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 1 - Python Variables" />
+    </a>
+    <h2>Day 2: Understanding Data Types and How to Manipulate Strings</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Learn about Python's data types and type casting.</li>
+        <li>Write a program to manipulate and format strings.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Explore string methods and operations in Python.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-2" target="_blank">
+        <img src="https://img.shields.io/badge/Day%202-Data%20Types%20and%20Strings-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 2 - Data Types and Strings" />
+    </a>
+    <h2>Day 3: Control Flow and Logical Operators</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Understand conditional statements (if, elif, else).</li>
+        <li>Use logical operators to make decisions in code.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Introduction to control flow in Python.</li>
+        <li>Logical operators: AND, OR, NOT.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-3" target="_blank">
+        <img src="https://img.shields.io/badge/Day%203-Control%20Flow%20and%20Logical%20Operators-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 3 - Control Flow and Logical Operators" />
+    </a>
+    <!-- Repeat for each day -->
+    <h2>Day 4: Randomisation and Python Lists</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Use the random module to generate random numbers.</li>
+        <li>Practice working with lists and accessing list elements.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Explore Python's random module.</li>
+        <li>Learn about list operations.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-4" target="_blank">
+        <img src="https://img.shields.io/badge/Day%204-Randomisation%20and%20Lists-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 4 - Randomisation and Lists" />
+    </a>
+    <h2>Day 5: Python Loops</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Understand the use of `for` and `while` loops in Python.</li>
+        <li>Write a program that uses loops to iterate over data.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Introduction to loops in Python.</li>
+        <li>Difference between `for` and `while` loops.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-5" target="_blank">
+        <img src="https://img.shields.io/badge/Day%205-Loops-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 5 - Loops" />
+    </a>
+    <h2>Day 6: Python Functions & Karel</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Understand how to define and call functions.</li>
+        <li>Explore Karel the robot to learn programming logic.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Introduction to functions in Python.</li>
+        <li>Karel robot and programming concepts.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-6" target="_blank">
+        <img src="https://img.shields.io/badge/Day%206-Functions%20and%20Karel-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 6 - Functions and Karel" />
+    </a>
+    <h2>Day 7: Hangman</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Write a Python program to implement the Hangman game.</li>
+        <li>Use loops, conditional statements, and string operations.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Understand how to use loops and conditions together for logic-based games.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-7" target="_blank">
+        <img src="https://img.shields.io/badge/Day%207-Hangman-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 7 - Hangman" />
+    </a>
+    <h2>Day 8: Function Parameters & Caesar Cipher</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Learn how to pass arguments to functions.</li>
+        <li>Implement the Caesar Cipher encryption and decryption.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Explore Python function parameters.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-8" target="_blank">
+        <img src="https://img.shields.io/badge/Day%208-Caesar%20Cipher-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 8 - Caesar Cipher" />
+    </a>
+    <h2>Day 9: Dictionaries, Nesting and the Secret Auction</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Practice with dictionaries and nesting structures.</li>
+        <li>Write a program to simulate a secret auction.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Learn about Python dictionaries and nested structures.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-9" target="_blank">
+        <img src="https://img.shields.io/badge/Day%209-Dictionaries%20and%20Auction-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 9 - Dictionaries and Auction" />
+    </a>
+    <h2>Day 10: Functions with Outputs</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Learn to define functions with return values.</li>
+        <li>Practice returning different data types from functions.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Explore Python functions with return values.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-10" target="_blank">
+        <img src="https://img.shields.io/badge/Day%2010-Functions%20with%20Outputs-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 10 - Functions with Outputs" />
+    </a>
+    <h2>Day 11: The Blackjack Capstone Project</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Write a Python program to simulate a Blackjack game.</li>
+        <li>Use loops, functions, and conditionals to build the game logic.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Understand game logic and flow using Python functions.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-11" target="_blank">
+        <img src="https://img.shields.io/badge/Day%2011-Blackjack%20Project-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 11 - Blackjack Project" />
+    </a>
+    <h2>Day 12: Scope & Number Guessing Game</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Understand global and local scope in Python.</li>
+        <li>Write a number guessing game using functions and scope.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Introduction to Python scope and best practices.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-12" target="_blank">
+        <img src="https://img.shields.io/badge/Day%2012-Number%20Guessing%20Game-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 12 - Number Guessing Game" />
+    </a>
+    <h2>Day 13: Debugging: How to Find and Fix Errors in your Code</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Learn techniques to identify and fix bugs in Python code.</li>
+        <li>Practice debugging with a broken piece of code.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Introduction to debugging techniques.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-13" target="_blank">
+        <img src="https://img.shields.io/badge/Day%2013-Debugging-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 13 - Debugging" />
+    </a>
+    <h2>Day 14: Higher Lower Game Project</h2>
+    <h3>Tasks:</h3>
+    <ul>
+        <li>Write a Python program for the Higher Lower game.</li>
+        <li>Use loops, conditionals, and logic for game mechanics.</li>
+    </ul>
+    <h3>Reading List:</h3>
+    <ul>
+        <li>Understand the design and logic behind guessing games.</li>
+    </ul>
+    <h3>Badge:</h3>
+    <a href="https://github.com/safwannasir49/100DaysOfPython/tree/main/Day-14" target="_blank">
+        <img src="https://img.shields.io/badge/Day%2014-Higher%20Lower%20Game-blue?logo=python&logoColor=white&style=for-the-badge" alt="Day 14 - Higher Lower Game" />
+    </a>
+<hr>
 
 ## 📚 Intermediate
 - [Day 15:](https://github.com/phillipai/100-days-of-code-python/tree/main/day15) Local Development Environment Setup & the Coffee Machine
