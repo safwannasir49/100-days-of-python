@@ -1,1 +1,3 @@
-# 100-days-of-python
+<div>
+  <img src="Resources/100dayspython.png">
+</div>
