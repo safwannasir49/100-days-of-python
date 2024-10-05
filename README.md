@@ -5,7 +5,7 @@
 <h2 align="center">🔰 Beginner </h2> 
 
 - [Day 1:](https://github.com/safwannasir49/100-days-of-python/tree/main/Day%20-%201) Working with Variables in Python to Manage Data
-- [Day 2:](https://github.com/phillipai/100-days-of-code-python/tree/main/day02) Understanding Data Types and How to Manipulate Strings
+- [Day 2:](https://github.com/safwannasir49/100-days-of-python/tree/main/Day%20-%202) Understanding Data Types and How to Manipulate Strings
 - [Day 3:](https://github.com/phillipai/100-days-of-code-python/tree/main/day03) Control Flow and Logical Operators
 - [Day 4:](https://github.com/phillipai/100-days-of-code-python/tree/main/day04) Randomisation and Python Lists
 - [Day 5:](https://github.com/phillipai/100-days-of-code-python/tree/main/day05) Python Loops
